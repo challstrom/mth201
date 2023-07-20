@@ -2,44 +2,61 @@
 
 <pretext>
 
-  <docinfo>
-    <brandlogo url="http://www.uleth.ca/artsci/math-computer-science/" source="http://www.cs.uleth.ca/graphics/fiatlux/fiatlux76by75.jpg" />
-    <initialism>M1560</initialism>
-  </docinfo>
 
-  <article xml:id="calculus-outline">
-    <title>Math 1560 Course Outline</title>
+  <article xml:id="calcI-syllabus">
+    <title>MTH 201 :: Syllabus</title>
 
-    <frontmatter>
-
+    
         <titlepage>
             <author>
-                <personname>Chris Hallstrom</personname>
+                <personname>Prof. Hallstrom</personname>
                 <institution>University of Portland</institution>
             </author>
-            <date>Fall 2020</date>
+            <date>Fall 2023</date>
         </titlepage>
 
-      <abstract>
-        <p>
-          As you embark upon your study of calculus in this course (Math 1560),
-          you likely have many questions, such as: <q>What is Calculus, anyway?</q>
-          and <q>Is this on the test?</q>
+      <frontmatter>
+        <title>Welcome</title>
+        <shortitle>Welcome!</shortitle>
+
+        <p>In this course we will learn how to describe the relationships 
+          between changing quantities using the tools of differential and 
+          integral calculus. We will explore the ideas of continuity, limits, 
+          differentiation, and integration in both theoretical and applied 
+          contexts.
         </p>
+
         <p>
-          The transition to online teaching prompts even more questions.
-          This outline is intended to serve as a roadmap,
-          to guide you through the various components of the course.
+        Calculus at the University of Portland is a part of our liberal arts 
+        Core Curriculum with a vision of students acquiring knowledge, 
+        skills, and values that will prepare you to respond to the needs of 
+        the world and its human family, while having a foundation of 
+        multiple lenses to address enduring questions of human concern. 
+        The Core Curriculum strives to achieve this vision by 
+        cultivating six habits of heart and mind in all graduates regardless 
+        of major.
         </p>
-      </abstract>
-      <video youtube="p_NyQMvlgZ8" xml:id="video-syllabus-intro"/>
-    </frontmatter>
+
+        <p>
+        As a priority for this Core class, our focus is the <q>scientific and 
+        quantitative literacy and problem solving</q> habit. As part of 
+        developing that habit this course will prioritize students learning 
+        to employ mathematical and statistical skills to explore and make 
+        sense of data. Toward this end, as one specific Core learning 
+        outcome for this class, the expectation is that students who 
+        complete this course will be able to use the tools of differential 
+        calculus to solve complex problems and effectively communicate 
+        solutions in written form.
+        </p>
+      
+      </frontmatter>
+    
 
     <section xml:id="section-introduction">
-      <title>Introduction to Math 1560</title>
+      <title>Introduction to MTH 201</title>
       <introduction>
         <p>
-          Welcome to Math 1560, Calculus I.
+          Welcome to MTH 201, Calculus I.
           I'm glad you've chosen to embark on this journey through a mathematical classic.
           The Fall 2020 offering of this course will be an adventure,
           as I attempt to offer the course fully online for the first time.
