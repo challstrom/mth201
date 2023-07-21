@@ -273,8 +273,8 @@
   <title>Learning Objectives</title>
       <p>
         By the end of the course, you should be able to say the following (items marked with (*) are considered <em>core</em> objectives.)
-              <dl width="narrow">
-                <li><title>Limits</title>
+        <dl width="narrow">
+          <li><title>Limits</title>
                   <p>
                     <ol marker="L1">
                       <li><p>(*) I can explain the meaning of a limit beyond describing how to calculuate it.</p></li>
