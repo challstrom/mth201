@@ -17,7 +17,7 @@
         </titlepage>
 
       <frontmatter>
-        <title>Welcome</title>
+        <title>Welcome!</title>
         <shortitle>Welcome!</shortitle>
         <p>In this course we will learn how to describe the relationships 
           between changing quantities using the tools of differential and 
@@ -26,11 +26,16 @@
           contexts.
         </p>
 
-       
-       
-
+        <p><alert>You Belong Here!</alert></p>
+        <p>In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
+        </p>
       </frontmatter>
+      <subsection xml:id="subsec-front?">
+        <title>front?</title>
+        
+      </subsection>
     
+  
 
     <section xml:id="section-introduction">
       <title>Essential Course Information</title>
@@ -565,671 +570,157 @@
     </subsection>
   </section>
 
-    <section xml:id="sec-technology">
-      <title>Technology elements</title>
-      <introduction>
-        <p>
-          To facilitate online teaching,
-          our course will rely on several technological solutions.
-          This section provides details on navigating the technology.
-        </p>
-      </introduction>
-      <subsection xml:id="subsec-webwork">
-        <title>Online homework</title>
-        <p>
-          Online homework is delivered via WeBWorK.
-          WeBWorK is an open source homework system that I maintain on a local server.
-          This service is provided to you free of charge, and your data never leaves campus.
-          <fn>Okay, this is not entirely true. Since faculty are expected to teach from home,
-          your data does travel from campus to my house via the university VPN.</fn>
-        </p>
-        <p>
-          The value of WeBWorK is that questions are automatically graded,
-          providing you with immediate feedback on your work.
-          This is an excellent source of guided practice.
-        </p>
-        <video youtube="79kRzUV7f2U" xml:id="video-webwork"/>
-        <p>
-          <em>To access WeBWorK</em>: simply click the relevant link in Moodle.
-          You will be signed in automatically <mdash/> there is no user name or password.
-          But keep in mind that if your session times out due to inactivity,
-          you have to return to Moodle to log in again.
-        </p>
-        <p>
-          <em>Submitting answers</em>: WeBWorK has an automatic preview feature.
-          The mathematics in your answer will be rendered as you type.
-          (You can turn this off in the user settings if you don't like it.)
-          If everything looks good, click the Submit button.
-          The system will immediately respond with <q>Correct</q> or <q>Incorrect</q>.
-          If your answer is correct, there is nothing more to do: your answer has been recorded,
-          and you have credit for that problem.
-          If your answer is incorrect, you get to try again.
-          (<em>Exception</em>: I typically do not give unlimited attempts for true/false and multiple choice questions.)
-        </p>
-        <p>
-          <em>Other notes</em>:
-          <ul>
-            <li>
-              <p>
-                Some questions are <q>scaffolded</q> <mdash /> there are multiple parts,
-                and you need to complete one part before being allowed to access the next.
-                For these, you want to click the Preview Answers button, rather than Submit,
-                to check your work and move on to the next step.
-              </p>
-            </li>
-            <li>
-              <p>
-                If you need to include scientific units in an answer,
-                the automatic equation rendering can cause trouble.
-                There's a little tool bar on the right hand side that lets you switch to <em>text mode</em> to enter units.
-              </p>
-            </li>
-            <li>
-              <p>
-                At the bottom of each page is an <q>Email Instructor</q> button.
-                If you are stuck on a problem, or if you think there is an error in the programming (it happens!)
-                you can use this to let me know.
-                WeBWorK will send me an email with your message,
-                along with a link to the exact version of the problem you were working on.
-                Often I can figure out where you're going wrong by looking at your answer.
-              </p>
-              <p>
-                Please <em>do not</em> use the email button to ask me how to solve a problem.
-                That's what the discussion forum is for.
-                It should only be used afer you've made several attempts at the problem,
-                or if you see an error message of some sort.
-              </p>
-            </li>
-          </ul>
-        </p>
-        <p>
-          Finally, some general advice: WeBWorK is not a new addition for the online environment.
-          I've used it for awhile. The students who do well in this course are the ones who start their problem sets early.
-          Please do not wait until the due date to begin: it leaves you no time to ask questions!
-          The most effective way to use WeBWorK is to read the relevant portion of the textbook,
-          try the problems, and then ask for help on the ones you're stuck on.
-        </p>
-        <p>
-          Oh, and please do not wait until you've made 50 unsuccessful attempts at a problem to ask for help.
-          If you haven't figured out a question after 5 or 6 attempts, set it aside, and come back to it a bit later.
-          If you still can't figure it out, go the discussion forum.
-        </p>
-      </subsection>
-
-      <subsection xml:id="subsec-crowdmark">
-        <title>Crowdmark</title>
-        <p>
-          Tests and assignments will be submitted through Crowdmark.
-          Like WeBWorK, Crowdmark is connected to Moodle,
-          so you just have to click a link in Moodle to access your assessement and submit your work.
-          Unlike WeBWorK, Crowdmark lets you do your work using pencil and paper.
-          For ease of reference, I've placed <url href="http://www.cs.uleth.ca/~fitzpat/crowdmark.html">advice for using Crowdmark</url>
-          on a separate page.
-        </p>
-        <p>
-          Basic advice:
-          <ul>
-            <li>
-              <p>
-                Start each question on a clean sheet of paper.
-              </p>
-            </li>
-            <li>
-              <p>
-                Use a scanner, or a scanning app on your smartphone.
-                PDF is best, but JPG and PNG files are also supported.
-              </p>
-            </li>
-            <li>
-              <p>
-                When you submit, make sure your pages are in order, and rotated correctly.
-              </p>
-            </li>
-          </ul>
-        </p>
-      </subsection>
-
-      <subsection xml:id="subsec-zoom">
-        <title>Zoom and YouTube</title>
-        <p>
-          Classes and tutorials will meet using Zoom.
-          This is the officially supported meeting app for U of L classes,
-          so you'll very quickly become familar with (and tired of) Zoom.
-        </p>
-        <p>
-          We will <em>not</em> use Zoom for <q>content delivery</q>.
-          This is the job of the textbook and the prerecorded videos.
-          Those videos are embedded into the textbook, so you can watch them as you read.
-          Alternatively, you can subscribe to <url href="https://www.youtube.com/channel/UCNTQSJzbc90IjFJjlCIQpGQ">my channel on YouTube</url>.
-        </p>
-        <p>
-          I may choose to record some parts of our classes on Zoom.
-          Any time I record, you will receive a warning (in case you want to turn off your camera, perhaps).
-          Note that Zoom does not record breakout rooms.
-          Typically, I will only record when I am presenting the solution to a problem.
-          Those recordings will then be posted on YouTube for later access.
-        </p>
-        <list xml:id="zoom-guidelines">
-          <title>Zoom guidelines and etiquette</title>
-          <ul>
-            <li>
-              <p>
-                Sign on using your U of L email and your proper name.
-                I'm hoping to be able to put you into <q>breakout rooms</q> using pre-assigned groups.
-                This will not work if your name doesn't match what's on the class list.
-              </p>
-            </li>
-            <li>
-              <p>
-                You <alert>do not</alert> need to have your camera on at all times.
-                But do consider adding a profile photo or avatar,
-                so I don't have to spend class looking at a grid of black rectangles.
-              </p>
-            </li>
-            <li>
-              <p>
-                Please <alert>do</alert> mute your microphone when everyone is together in the main room.
-                You can unmute if you want to ask a question.
-              </p>
-            </li>
-            <li>
-              <p>
-                Please <alert>don't</alert> mute your microphone while in a breakout room.
-                (With reasonable exceptions: some of you might be in noisy environments,
-                such as a construction site, or a house with kids.)
-              </p>
-            </li>
-          </ul>
-        </list>
-        <list xml:id="zoom-questions">
-          <title>Asking questions during class</title>
-          <ol>
-            <li>
-              <p>
-                Using the chat box in Zoom. This is probably most useful to quickly ask for clarification on something I just said.
-              </p>
-            </li>
-            <li>
-              <p>
-                Using the discussion forum. I'll monitor this during class.
-                This will let you ask more detailed questions than the Zoom chat.
-                (For example, if you want to ask about a particular homework question.)
-              </p>
-            </li>
-            <li>
-              <p>
-                Using your voice! There is a <q>raise hand</q> feature if you don't want to interrupt,
-                but it's often perfectly reasonable to interrupt, especially if you notice me getting something wrong!
-              </p>
-            </li>
-          </ol>
-        </list>
-        <paragraphs>
-          <title>Group work in Zoom</title>
-          <p>
-            During most Zoom sessions, you will be put into smaller breakout rooms to work on problems.
-            Breakout rooms are not recorded, and I cannot actively monitor the breakout rooms <mdash />
-            these are essentially private working sessions for your group.
-            I <em>do</em> have the ability to join a breakout room temporarily,
-            but will only do so when invited.
-            If you need my help during a breakout session, there is an <q>Ask for help</q> button you can use to get my attention.
-          </p>
-          <p>
-            You will be encouraged to use Microsoft OneNote to collaborate with your group.
-            OneNote lets you type notes, insert photos, and use handwriting, if you have a touch-enabled device.
-            Unlike the Zoom chat and whiteboard features,
-            your OneNote notebook will remain available after class for you to refer to.
-            See <xref ref="subsec-onenote"/> for more details.
-          </p>
-        </paragraphs>
-        <paragraphs xml:id="pars-recording">
-          <title>Recording</title>
-          <p>
-            First of all: I do not intend to record entire Zoom meetings.
-            I will record myself if I'm doing an example or solving a problem someone has requested,
-            and post those recordings online for later reference.
-            I have things set up so that I only record myself, with recording anyone else.
-            This should let us avoid any privacy concerns.
-          </p>
-          <p>
-            Please be aware that it is an <alert>academic offence</alert> to record a class,
-            or anyone in it, without prior authorization.
-            If all members of a breakout room agree to having someone record your discussion,
-            this is fine. When are in the <q>main room</q> of Zoom, recording is not permitted.
-          </p>
-        </paragraphs>
-      </subsection>
-
-      <subsection xml:id="subsec-onenote">
-        <title>Using OneNote</title>
-        <p>
-          OneNote will be used both for class presentations,
-          and for student collaboration.
-          Details here will include how to access class notebooks,
-          how to edit collaboratively, how to print, <etc />.
-        </p>
-        <p>
-          Students will have access to OneNote through their Office 365 accounts.
-          There were early promises of Moodle integration that don't seem to have worked out.
-          What we got instead are class <q>teams</q> on Microsoft Teams.
-          There's one team per section, and each team has a class notebook attached to it.
-        </p>
-      </subsection>
-    </section>
-
-    <section xml:id="sec-policies">
-      <title>Course policies (an FAQ)</title>
+  <section xml:id="sec-reminders">
+    <title>Reminders and Expectations</title>
+    <subsection xml:id="subsec-moodle">
+      <title>Moodle</title>
       <p>
-        This section deals with questions about accommodations, missed tests,
-        and other exceptional (yet common) cases.
+       Consider Moodle your “base camp” for this course.  All information, assignments, updates, Zoom links, etc. will be posted there.  If you have a question, it's probably answered on Moodle (perhaps in this very syllabus...).  I expect you to check the site frequently to stay on top of deadlines and course communications.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-climate">
+      <title>Classroom Climate</title>
+      <p>
+        As someone who works hard to facilitate an environment that is safe and productive and that fosters inclusivity and deep belonging for each and every person in the room, I ask that you be courteous and respectful.  I hope we can all learn to recognize individual differences as a source of strength and believe that each one of you is vital to the successful creation of a rich and diverse classroom space -- regardless of background, identity, or beliefs.  Moreover, I contend that all perspectives are valuable (even those that are unpopular or that cause discomfort) because they are precisely what help broaden our understanding of the world and the people in it.  As such, it is important that we approach one another with curiosity and kindness while trying to avoid judgement and bias.  Please listen to others carefully, and thoughtfully consider ideas that are different from your own.  Whatever your goals in life, you will be a better maker, builder, salesperson, colleague, leader, friend, and citizen if you are able to understand and accommodate a diverse range of perspectives!  Also consider that mathematics is a robust and potentially persuasive analytic tool that can be used to challenge inherently inequitable systems of power and privilege. I treat it as such and want you to feel similarly empowered.
       </p>
       <p>
+        I expect our classroom to be a true community of learners, and anyone who acts in a negative, threatening, or disruptive way through their words or actions harms that community and inhibits the participation of others. Rude, mocking, obscene, hateful, racist, sexist, and all other forms of disrespectful speech have a negative impact on everyone's learning and will not be tolerated. If a person disrupts our class in any of these ways, I will address it and reserve the right to remove the disruptive person from the class.  Moreover, if you witness a peer behaving in an objectionable way, I invite you to try to help them examine their actions with empathy and care.  We will all make mistakes in the messy and complicated process of working together and must help one another be accountable for reflecting on how our impact may differ from our intent.  When I make such a mistake, I hope you will hold me to the same high ideals and courageously help me examine my own impact.  There will be a feedback form on our Moodle page in case you ever wish to report something to me (anonymously, if you prefer) that you find objectionable along any of the lines described above (e.g., behavior you experience as unwelcoming in any regard).
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-help">
+      <title>Getting Help</title>
+      <p>
+        Don't hesitate to ask for assistance! I have help hours specifically in place because I want you to succeed, and the best place to connect with questions is one-on-one. If you can’t make it to my posted help hours, let me know and we can find another time. Other help options include:
+        <ul>
+          <li>
+            <p>
+              Post your question to the class Moodle discussion board
+            </p>
+          </li>
+          <li>
+            <p>
+              Get together with classmates to study together
+            </p>
+          </li>
+          <li>
+            <p>
+              Drop by the Math Resource Center, which offers both drop-in and appointment-based tutoring.
+            </p>
+          </li>
+          <li>
+            <p>
+              Google it. If you find a resource helpful, let me know and you get a token!
+            </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        I understand that life happens, and illness, depression, family, relationships can disrupt our lives. When something arises, REACH OUT! I want to be able to support you in this course, and can only do so if you let me know.
+      </p>
+    </subsection>
+
+    <subsection xml:id="subsec-rational">
+      <title>Rationale for Standards-Based Grading</title>
+      <p>
+        While it may seem complicated, there are numerous reasons for adopting this type of grading scheme described above, all of which I firmly believe benefit you.
         <ol>
           <li>
-            <title>I don't think I can attend the classes regularly. Can I still take the course?</title>
-            <p>
-              Short answer: yes. I recognize that not all students have access to the same technology.
-              If your home internet is unreliable, attending Zoom sessions could be a challenge.
-              If you can't attend synchronous sessions, I will arrange alternatives for graded work done asynchronously.
-              I will also try to connect you with other students in the same situation,
-              so that you still have a group you can work with.
+            <p>It is empowering and confidence-inspiring to know exactly what you have mastered-- and it's a more honest measure of what you've actually learned!  No more random points grab.
             </p>
           </li>
           <li>
-            <title>What happens if I get sick?</title>
-            <p>
-              I'll do my best to be accommodating of any illness that interrupts your studies.
-              There is no need to provide details of the illness.
-              If you miss a week or more of work, please get in touch to make a plan for catching up.
-              One of the biggest challenges in math is that once you fall behind,
-              it's difficult to catch up on your own.
+            <p>It is built on the premise that deep understanding takes time and practice.  Getting multiple chances to learn something favors the kind of persistence and intellectual resilience that is needed to succeed in learning (and everything else), and I want to prioritize that.
             </p>
           </li>
           <li>
-            <title>What exactly does academic honesty mean?</title>
-            <p>
-              In short, that any work you represent as your own, is your own.
-              Much of your work can be done in groups, but not all of it.
-              I will assume that you have access to a calculator,
-              including online tools (like <url href="https://www.symbolab.com/">Symbolab</url>)
-              that give you step-by-step solutions.
-            </p>
-            <p>
-              Use of these tools is acceptable, but take care that you are not overly reliant on them.
-              What is not acceptable is having someone else do your work for you.
-              This includes tutors, classmates, friends, family members, and online <q>homework help</q> sites.
-              If you are paying money in exchange for answers to graded work,
-              you are committing an academic offence.
-            </p>
-            <p>
-              Penalties for academic dishonesty are outlined in the
-              <url href="https://www.uleth.ca/policy/resources/student-discipline-policy-academic-offences-undergraduate-students">Academic Calendar</url>.
-              Depending on the severity of the offence, penalties for a first offence can range from a grade of zero on an assessment,
-              to an F in the courses.
-              Academic offences are also reported to the Dean of Arts &amp; Sciences.
-              They keep a record of each offence, and students with multiple offences can be subject to supplementary discipline.
+            <p>It gives you more agency and control over your ultimate grade.  You get to decide whether to revise or challenge a quiz to boost your P/P+ numbers, which topics to revisit, or whether to spend a token on an extension instead. 
             </p>
           </li>
           <li>
-            <title>Does that mean I'm not allowed to get help with my homework?</title>
-            <p>
-              Not at all! But keep in mind that your course instructors will be available for help,
-              free of charge. (OK, maybe not free of charge, but you've already paid for it with your tuition.)
-              We will be responding on the discussion forum regularly,
-              There will be time to ask questions in every class, and there will be online office hours.
-              The Student Success Centre will also be running free help sessions (details TBA).
-            </p>
-            <p>
-              Some of you may still decide to pay for tutoring, and that's fine.
-              But you have a duty to disclose sources of help on an assignment,
-              and the individual tests are still tests, even if you won't have someone watching over your shoulder.
-            </p>
-            <p>
-              You should probably avoid the various paid <q>homework help</q> websites.
-              Most of these don't offer help. They offer worked solutions for a price.
-              Getting those solutions won't help with your understanding.
-              More importantly, the people working for these sites are paid (poorly) per solution,
-              and they often provide incorrect and/or badly written work.
-              (We saw plenty of examples of this last Spring, and yes, all those students now have discipline reports on file.)
-            </p>
-          </li>
-          <li>
-            <title>I missed a test! What do I do? Do I get a zero?</title>
-            <p>
-              First, contact me as soon as possible for any missed test.
-              There are <em>five</em> tests, and I only count <em>four</em> towards your grade.
-              As long as you only miss one test, there is no penalty.
-              This is true regardless of your reason for missing the test.
-            </p>
-          </li>
-          <li>
-            <title>What if I really wanted to write that test?</title>
-            <p>
-              Inform me of this when you contact me to explain your absence.
-              There's no guarantee that I can schedule a makeup test, but I'll try.
-              You're more likely to get a makeup test if you've contacted me in advance.
-            </p>
-          </li>
-          <li>
-            <title>Do I need a doctor's note?</title>
-            <p>
-              No. This wastes health care resources and your time.
-              (That was my answer before the pandemic, and it's doubly so now.)
-              Just email me to say you were sick.
-              However, if you miss more than one test due to illness,
-              we'll need to meet to discuss how to adjust your grade.
-            </p>
-          </li>
-          <li>
-            <title>I receive learning accommodations. What arrangements can I make?</title>
-            <p>
-              First, make sure that you have registered with the University's
-              <url href="https://www.uleth.ca/ross/accommodated-learning-centre">Accommodated Learning Centre</url>.
-              No need to let me know: they notify me of every student with accommodations.
-            </p>
-
-            <p>
-              Some accommodations will look a bit different this year,
-              but exam accommodations such as extra time are still possible.
-            </p>
-
-            <p>
-              If there are any adjustments I can make
-              to facilitate your learning, please do not hesitate to get in touch with me.
-              All students deserve an equal opportunity to learn.
-              Note that the <init>HTML</init> textbook is designed with accessibility in mind,
-              and should work with screen readers.
-              However, I regret that we have not had the time (or paid help) necessary to add elements such as alt-text descriptions for images.
-              It's on the to-do list, but that list is long, and growing.
-            </p>
-          </li>
-          <li>
-            <title>Life intervened and I can't keep up this week. What do I do?</title>
-            <p>
-              Send me an email. Extensions are usually granted as long as they're granted ahead of time.
-              Online homework extensions need to be in place before solutions become available.
-              Book an appointment with me as soon as you feel like you're falling behind and I'll do my best to get you up to speed.
+            <p>It replaces a few, high-stakes assessments (exams) with more numerous, low-stakes assessments, which decreases stress and pressure by spreading measurement out over the semester.  It also makes your grade less susceptible to outlier events, such as when you feel sick on exam day.
             </p>
           </li>
         </ol>
       </p>
-    </section>
-    
+      <p>
+        If you'd like to read more about "SBG" check out Robert Talbert's blog, which articulates all this very nicely.
+      </p>
+    </subsection>
+  </section>
 
-    <section xml:id="section-schedule">
-      <title>Course schedule</title>
-        <p>
-          I will attempt to follow the schedule below,
-          bearing in mind that some adjustments are always needed,
-          and this is probably more likely as we attempt to navigate an online environment.
-          Numbers below refer to textbook sections.
-        </p>
-        <p>
-          Every class will have some time for Q&amp;A, and for discussion.
-          Wednesday classes will have time dedicated to group work.
-          Depending on the week, this group work could be the group portion of a test,
-          or time to work on one of the assignments.
-        </p>
-        <p>
-          Online homework assignments will be due Mondays.
-          This is because tests will run on Tuesdays,
-          and you are better off on a test if you've done your homework ahead of time.
-        </p>
-        <p>
-          Acronyms used below:
-          <ul>
-            <li>
-              <p>
-                 CS <mdash /> chapter summary
-              </p>
-            </li>
-            <li>
-              <p>
-                GA <mdash /> group assignment
-              </p>
-            </li>
-            <li>
-              <p>
-                IT <mdash /> individual test
-              </p>
-            </li>
-            <li>
-              <p>
-                GT <mdash /> group test
-              </p>
-            </li>
-          </ul>
-        </p>
-        <table xml:id="table-schedule">
-          <title>Schedule for Fall 2020</title>
-          <tabular>
-            <col width="25%"/>
-            <col width="25%"/>
-            <col width="20%"/>
-            <col width="25%"/>
-            <row bottom="major">
-              <cell>Monday</cell><cell>Wednesday</cell><cell>Tutorial</cell><cell>Deadlines</cell>
-            </row>
-            <row bottom="minor">
-              <cell></cell>
-              <cell>
-                <p>
-                  Sept. 9: Orientation
-                </p>
-              </cell>
-              <cell><p>
-                Technology Intro
-              </p></cell>
-              <cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Sept. 14: Limit intro
-              </p></cell>
-              <cell><p>
-                Sept. 16: One-sided limits and continuity
-              </p>
-            </cell>
-            <cell><p>
-              Evaluating limts
-            </p></cell><cell>GA1 due Friday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                1.1 and 1.3.
-              </p></cell><cell><p>
-                1.4 and 1.5
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Sept. 21: Limits involving infinity
-              </p></cell>
-              <cell><p>
-                Sept. 23: Derivatives as limits
-              </p></cell><cell><p>
-                Limits and continuity
-              </p></cell>
-              <cell><p>
-                CS1 due Friday.
-              </p></cell>
-            </row>
-            <row bottom= "minor">
-              <cell><p>
-                1.6
-              </p></cell><cell><p>
-                2.1
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Sept. 28: Ch.1 Q&amp;A; intro to derivatives.
-              </p></cell>
-              <cell><p>
-                Sept. 30: GT1, derivative rules.
-              </p></cell><cell><p>
-                Derivative intro
-              </p></cell><cell>IT1 on Tuesday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                2.2, 2.3
-              </p></cell><cell><p>
-                2.3, 2.4
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Oct. 5: Chain rule
-              </p></cell><cell><p>
-                Oct. 7: Implicit differentiation.
-              </p>
-            </cell><cell><p>
-              Derivative rules
-            </p></cell><cell><p>
-              GA2 due Friday
-            </p></cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                2.5
-              </p></cell><cell><p>
-                2.6
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Oct. 12: Thanksgiving
-              </p></cell><cell><p>
-                Oct. 14: Inverse functions
-              </p></cell><cell><p>
-                Advanced derivatives
-              </p></cell><cell><p>
-                CS2 due Friday
-              </p></cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                No class
-              </p></cell><cell><p>
-                2.7
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Oct. 19: Ch. 2 Q&amp;A; Extreme values
-              </p></cell><cell><p>
-                Oct. 21: GT2, Mean Value Theorem
-              </p></cell><cell><p>
-                Finding max/min values
-              </p></cell><cell><p>
-                IT2 on Tuesday
-              </p></cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                3.1
-              </p></cell><cell><p>
-                3.2
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Oct. 26: graph behaviour
-              </p></cell><cell><p>
-                Oct. 28: curve sketching
-              </p></cell><cell><p>
-                Curve sketching
-              </p></cell><cell>CS3 due Friday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                3.3, 3.4
-              </p></cell><cell><p>
-                3.5
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Nov. 2: Ch. 3 Q&amp;A; Related rates
-              </p></cell><cell><p>
-                Nov. 4: GT3, Optimization
-              </p></cell><cell><p>
-                Word problems
-              </p></cell><cell><p>
-                IT3 on Tuesday, GA3 due Friday
-              </p></cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                4.2
-              </p></cell><cell><p>
-                4.3
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Nov. 16: differentials
-              </p></cell><cell><p>
-                Nov. 18: Taylor polynomials
-              </p></cell><cell><p>
-                Approximation
-              </p></cell><cell><p>
-                CS4 due Friday
-              </p></cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                4.4
-              </p></cell><cell><p>
-                4.5
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Nov. 23: Ch. 4 Q&amp;A; Antiderivatives
-              </p></cell><cell><p>
-                Nov. 25: GT4, Intro to integration
-              </p></cell><cell>Integrals</cell><cell>IT4 on Tuesday, GA4 due Friday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                5.1
-              </p></cell><cell><p>
-                5.2, 5.3
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Nov. 30: Fundamental Theorem of Calculus
-              </p></cell><cell><p>
-                Dec. 2: Substitution
-              </p></cell><cell><p>
-                Using the FTC
-              </p></cell><cell>CS5 due Friday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                5.4
-              </p></cell><cell><p>
-                6.1
-              </p></cell><cell></cell><cell></cell>
-            </row>
-            <row>
-              <cell><p>
-                Dec. 7: Ch. 5 Q&amp;A, Area between curves
-              </p></cell><cell><p>
-                Dec. 9: GT5
-              </p></cell><cell>No tutorial</cell><cell>IT5 on Tuesday, GA5 due Friday</cell>
-            </row>
-            <row bottom="minor">
-              <cell><p>
-                7.1
-              </p></cell><cell></cell><cell></cell><cell></cell>
-            </row>
-          </tabular>
-        </table>
-    </section>
-  </article>
+<section xml:id="sec-univpolicy">
+  <title>University Policies</title>
+
+  <subsection xml:id="subsec-covid19">
+    <title>In-Person Learning During COVID-19</title>
+    <p>
+      To create a successful in-person learning environment while keeping everyone safe, all students and instructors must follow the University’s COVID-19 rules and procedures that are in place at any given time during the semester for classrooms, labs, and all common areas of academic buildings. Such rules and procedures may include required face coverings, suggested distancing protocols and directions, and cleaning one’s desk space after usage, among other things. No food will be allowed in the classrooms or laboratories. Only water will be allowed in the classrooms but is not allowed in laboratories. If the University requires face coverings, they may only be removed temporarily when taking a drink of water. Failure to follow any of the COVID-19 classroom rules could result in a student’s removal from the course and/or a report filed with the Office of Student Conduct.
+    </p>
+
+    <p>
+      Generally, students are expected to attend all class sessions according to the instructor’s direction. Students who feel unwell or have a temperature above 100 degrees should NOT attend class in person. These students should inform their instructor as soon as possible.
+    </p>
+    <p>
+      Students who must be in quarantine or isolation due to their own symptoms or exposure to someone with COVID-19 should also contact their instructor as soon as possible to work out details for keeping up with the course material remotely while in quarantine or isolation. 
+    </p>
+    <p>
+      Please note, should the instructor test positive for COVID-19, even without symptoms, the course will be temporarily conducted remotely. Should the instructor be unable to teach for an extended period of time, the respective department or unit will find a substitute to continue the course either in person or online. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-ac-integrity">
+    <title>University of Portland’s Code of Academic Integrity</title>
+    <p>
+      Academic integrity is openness and honesty in all scholarly endeavors. The University of Portland is a scholarly community dedicated to the discovery, investigation, and dissemination of truth, and to the development of the whole person. Membership in this community is a privilege, requiring each person to practice academic integrity at its highest level, while expecting and promoting the same in others. Breaches of academic integrity will not be tolerated and will be addressed by the community with all due gravity.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-accessibility">
+    <title>Accessibility Statement</title>
+    <p>
+      The University of Portland endeavors to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are also encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943-8985). If you have an AES Accommodation Plan, you should make an appointment to meet with your faculty member to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, you should meet with your faculty member to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-assessment-disclosure">
+    <title>Assessment Disclosure Statement</title>
+    <p>
+      Student work products for this course may be used by the University for educational quality assurance purposes.
+    </p>
+  </subsection>
+ 
+  <subsection xml:id="subsec-mentalhealth">
+    <title>Mental Health Statement
+    </title>
+    <p>
+      As a college student, you may sometimes experience problems with your mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Health and Counseling Center in Orrico Hall (down the hill from Franz Hall and Mehling Hall) at <url href="http:www.up.edu/healthcenter">http:www.up.edu/healthcenter</url> or at 503-943-7134. Their services are free and confidential, and if necessary they can provide same day appointments. In addition, after-hours phone counseling is available if you call 503-943-7134 and press 3 outside of business hours. Also know that the University of Portland Public Safety Department (503-943-4444) has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do -- for yourself, for those you care about, and for those who care about you.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-nonviolence">
+    <title>Non-Violence Statement</title>
+    <p>
+      The University of Portland is committed to fostering a community free from all forms of violence in which all members feel safe and respected. Violence of any kind, and in particular acts of power-based personal violence, are inconsistent with our mission. Together, we take a stand against violence. Join us in learning more about campus and community resources, UP's prevention strategy, and reporting options on the Green Dot website, <url href="http://www.up.edu/greendot">www.up.edu/greendot</url>, or the Title IX website <url href="http://www.up.edu/titleix">www.up.edu/titleix</url>.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-ethics">
+    <title>Ethics of Information</title>
+    <p>
+      The University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information at <url href="http://libguides.up.edu/ethicaluse">libguides.up.edu/ethicaluse</url>.
+    </p>
+  </subsection>
+
+  <subsection xml:id="sec-learning-commons">
+    <title>The Learning Commons</title>
+    <p>
+      Students can get academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website <url href="http://www.up.edu/learningcommons">www.up.edu/learningcommons</url>. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or drop by the Learning Commons in BC 163 Monday-Friday from 9:00 a.m - 5:00 p.m. to learn more about their services. Find a tutor at the Learning Commons to get support on your academic journey.
+    </p>
+  </subsection>
+</section>
+  
+</article>
 
 </pretext>
