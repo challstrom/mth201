@@ -4,8 +4,9 @@
 
 
   <article xml:id="calcI-syllabus">
-    <title>MTH 201 :: Syllabus</title>
+    <title>MTH 201 Syllabus</title>
     <subtitle>Fall 2023</subtitle>
+    <subtitle>Another subtitle?</subtitle>
 
     
         <titlepage>
@@ -16,54 +17,60 @@
             <date>Fall 2023</date>
         </titlepage>
 
-      <frontmatter>
-        <title>Welcome!</title>
-        <shortitle>Welcome!</shortitle>
-        <p>In this course we will learn how to describe the relationships 
-          between changing quantities using the tools of differential and 
-          integral calculus. We will explore the ideas of continuity, limits, 
-          differentiation, and integration in both theoretical and applied 
-          contexts.
+    <frontmatter>
+      <title>Welcome to Calclus I</title>
+      
+      <introduction>
+        <p><em>Welcome!</em></p>
+
+        <p> For this course students will describe relationships between changing quantities using the tools of differential and integral calculus. The ideas of continuity, limits, differentiation, and integration are explored at both a theoretical level and in applied contexts. Students will further develop problem-solving skills and improve mathematical communication.
         </p>
 
-        <p><alert>You Belong Here!</alert></p>
-        <p>In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
-        </p>
-      </frontmatter>
-      <subsection xml:id="subsec-front?">
-        <title>front?</title>
+        <p><em>You Belong Here!</em></p>
         
-      </subsection>
-    
+        <p>In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
+      </p>
+    </introduction>
+
+    </frontmatter>
   
 
     <section xml:id="section-introduction">
-      <title>Essential Course Information</title>
-      <introduction>
-        A brief introduction to this section
-      </introduction>
+      <title>Welcome to Calculus I</title>
+
 
       <subsection xml:id="subsec-instructor">
         <title>Instructor</title>
        <p>My name is Chris Hallstrom and I'll be your instructor for this class.  My pronouns are he/his.
        <dl>
-        <li><title>Email:</title><p>hallstro@up.edu</p></li>
+        <li><title>Email:</title><p><url href="mailto:hallstro@up.edu">hallstro@up.edu</url></p></li>
           <li><title>Office:</title><p>Buckley Center 270</p></li>
+          <li><title>Phone:</title><p>(503) 943-7165</p></li>
        </dl>
       </p>
       </subsection>
 
 
       <subsection xml:id="subsec-support">
-        <title>Student Support</title>
-        <p>It is my experience that much of your learning in this course will occur outside of class.  You might get stuck on a homework problem or perhaps you have a question from class that did not get fully resolved.  For these reasons, it's important that you know how to get help outside of class.  Here are a few resources.
+        <title>Help Hours</title>
+        <p>Stop by BC 270 (my office) to ask questions, talk about math, or retake a quiz.
         </p>
-
         <p>
           <dl>
-            <li><title>Email</title>
-              <p>You are always welcome to email me at <url href="mailto:hallstro@up.edu">hallstro@up.edu</url> with any questions you have.  Please note that I don't usually check my email in the evenings or on weekends, so please be patient during those times.  I will respond as soon as I can.</p>
+            <li> <title>Monday</title>
+              <p>
+                tba
+              </p>
             </li>
+            <li> <title>Wednesday</title>
+              <p>
+                tba
+              </p>
+            </li>
+          </dl>
+        </p>
+
+        
           
             <li> <title>Drop-In Student Hours</title> 
               <p>I have set aside the following specific times during the week that I am available for drop-in help. You do not need to let me know you're coming -- just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.
@@ -104,141 +111,35 @@
       </subsection>
       
 
-      <subsection xml:id="subsec-website">
-        <title>Class website</title>
-        <p>
-          The primary course website is <url href="https://learning.up.edu/moodle">Moodle</url>.
-          On Moodle, you can expect to find:
-        </p>
-        <p>
-          <ol>
-            <li>
-              <p>
-                Links to important resources, like this syllabus and the textbook.
-              </p>
-            </li>
-            <li>
-              <p>
-                Links to key course activities, including the online homework,
-                and the discussion forum. (The links will log you into those services automatically.)
-              </p>
-            </li>
-            <li>
-              <p>
-                Details about your grades and assessments.
-              </p>
-            </li>
-            <li>
-              <p>
-                A weekly topics schedule.
-              </p>
-            </li>
-          </ol>
-        </p>
-        <p>
-          As you learn to navigate online learning (and as I learn how to guide you),
-          the weekly topics schedules will be key to staying on top of your course material.
-          Every week you can expect to receive details on readings, videos,
-          homework, and assessments, as well as information on what will be taking place in class,
-          and how to access those classes.
-        </p>
-        <p>
-          In case there's a day when Moodle isn't working properly and you need access to course materials,
-          you can find some of them (like this syllabus) on my <url href="http://www.cs.uleth.ca/~fitzpat/teaching.html">personal website</url>.
-          The textbook for this course (and many others) is available on our <url href="https://opentext.uleth.ca">Open Textbook Server</url>.
-        </p>
-      </subsection>
+      
       <subsection xml:id="subsec-meetings">
-        <title>Scheduled classes</title>
+        <title>Class Schedule</title>
         <p>
-          Math 1560 will be taught using a blend of synchronous and asynchronous instruction.
-          Asynchronous components are explained in later sections.
-          We have maintained the originally scheduled class meeting times,
-          which are as follows:
-        </p>
-        <p>
-          <dl>
-            <li>
-              <title>Math 1560A</title>
-              <p>
-                Monday and Wednesday, 1:30 - 2:45 pm.
-              </p>
-            </li>
-            <li>
-              <title>Math 1560B</title>
-              <p>
-                Monday and Wednesday, 4:30 - 5:45 pm.
-              </p>
-            </li>
-            <li>
-              <title>Math 1560C</title>
-              <p>
-                Monday and Wednesday, 9:00 - 10:15 am.
-              </p>
-            </li>
-          </dl>
-        </p>
-        <p>
-          You should try to attend your assigned section, or it'll mess up the group work dynamics.
-          But that's not always realistic, so attend when you can. (I won't tell the Registrar if you don't.)
-          Let me know if you want to change times permanently.
-          And if group members are expecting you, let them know too!
-        </p>
-        <p>
-          There is also a weekly <em>tutorial</em>.
-          Tutorials take place on Thursday and Friday.
-          Since there are 11 tutorial sections, we won't list them all here.
-          The easiest way to access your tutorial information is by looking up your personal schedule on <url href="https://bridge.uleth.ca/">the Bridge</url>.
-        </p>
-        <p>
-          Classes will be a mixture of Q&amp;A (where I do examples by request)
-          and group work (using Zoom's <term>breakout room</term> feature).
-          Sometimes I will provide a problem for discussion that you will work on as a group,
-          and then we'll reconvene as a class to compare group responses.
-          You will also have time in class to work on group assignments,
-          and after each test there will be a group test that takes place in class.
-        </p>
-        <p>
-          For the Q&amp;A portion:
+          MTH 201 Section C meets as follows:
           <ul>
             <li>
               <p>
-                You can use the discussion forum to recommend problems for us to discuss.
-                (See <xref ref="section-communication"/>. I'll run a live Q&amp;A session on Piazza.)
+                MWF 9:15-10:10 am, DB ???
               </p>
             </li>
             <li>
               <p>
-                Once we choose a question to solve, I'll give the class an opportunity for input on how to solve it.
-              </p>
-            </li>
-            <li>
-              <p>
-                I will record my solution (based on your input) and upload later to YouTube.
-                Recording will be done so that only my video is captured.
-                (That is: if you all want to turn on your cameras so I can see your smiling/frowning faces,
-                I promise not to record you and put it on YouTube.)
+                Th 9:45-10:40 am, DB ???
               </p>
             </li>
           </ul>
         </p>
-        <p>
-          Tutorials will be synchronous, and facilitated by a tutorial instructor.
-          You will use tutorials to work on the basic computational skills essential to success in calculus.
-          Work in tutorial will be done in groups, and graded for feedback.
-        </p>
-        <p>
-          If you can't attend tutorial synchronously, please let me know.
-          I'll try to accommodate. This is the one part of the class where I think you'll be way better off if you can attend in person.
-        </p>
       </subsection>
+
       <subsection xml:id="subsec-textbook">
-        <title>Course textbook</title>
+        <title>Text and Technology</title>
         <p>
-          Our course textbook is <pubtitle>Active Calculus</pubtitle>, by Matt Boelkins.
-          This book is an <term>open education resource</term> (<init>OER</init>).
-          That means that the book is fully free, both in terms of cost,
-          your freedom to use and share the book however you see fit.
+          The textbook for this class is <pubtitle>Calculus: Single Variable (7th ed.)</pubtitle>, by Hughes-Hallett, Gleason, McCallum, et al (Wiley, 2009).
+          <ul>
+            <li><p>Textbook available on closed reserve at the Clark Library.</p></li>
+            <li><p>Course requires access to Desmos, an online graphing calculuator.</p></li>
+            <li><p>Access to Zoom required in case a shift to remote instruction is required.</p></li>
+          </ul>
         </p>
       </subsection>
     </section>
