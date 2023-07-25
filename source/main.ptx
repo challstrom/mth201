@@ -5,50 +5,61 @@
 
   <article xml:id="calcI-syllabus">
     <title>MTH 201 Syllabus</title>
-    <subtitle>Fall 2023</subtitle>
-    <subtitle>Another subtitle?</subtitle>
+    <subtitle>Section C, Fall 2023</subtitle>
 
     
-        <titlepage>
+       <frontmatter>
+        <title>Welcome!</title>
+         <titlepage>
             <author>
                 <personname>Prof. Hallstrom</personname>
                 <institution>University of Portland</institution>
             </author>
-            <date>Fall 2023</date>
-        </titlepage>
 
-    <frontmatter>
-      <title>Welcome to Calclus I</title>
-      
-      <introduction>
-        <p><em>Welcome!</em></p>
 
-        <p> For this course students will describe relationships between changing quantities using the tools of differential and integral calculus. The ideas of continuity, limits, differentiation, and integration are explored at both a theoretical level and in applied contexts. Students will further develop problem-solving skills and improve mathematical communication.
-        </p>
-
-        <p><em>You Belong Here!</em></p>
         
-        <p>In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
-      </p>
-    </introduction>
-
-    </frontmatter>
+        </titlepage>
+        <introduction>
+          <p><em>Welcome!</em></p>
+      
+          <p> For this course students will describe relationships between changing quantities using the tools of differential and integral calculus. The ideas of continuity, limits, differentiation, and integration are explored at both a theoretical level and in applied contexts. Students will further develop problem-solving skills and improve mathematical communication.
+          </p>
+      
+          <p><em>You Belong Here!</em></p>
+          
+          <p>In our classroom, diversity and individual differences are respected, appreciated, and recognized as a source of strength. I support the use of mathematics as an analytic tool to challenge power, privilege, and oppression. It is our collective responsibility to create a welcoming space where ideas can be challenged while individuals are respected. I ask you to support one another as you develop as mathematicians and analytic thinkers.
+        </p>
+      </introduction>
+      </frontmatter>
   
 
     <section xml:id="section-introduction">
-      <title>Welcome to Calculus I</title>
+      <title>Class Overview</title>
+
+      <p>My name is Chris Hallstrom and I'll be your instructor for this class.  My pronouns are he/his.
+        <dl>
+         <li><title>Email:</title><p><url href="mailto:hallstro@up.edu">hallstro@up.edu</url></p></li>
+           <li><title>Office:</title><p>Buckley Center 270</p></li>
+           <li><title>Phone:</title><p>(503) 943-7165</p></li>
+        </dl>
+       </p>
+
+        <p>MTH 201 Section C meets as follows:
+          <ul>
+            <li>
+              <p>
+                MWF 9:15-10:10 am, DB ???
+              </p>
+            </li>
+            <li>
+              <p>
+                Th 9:45-10:40 am, DB ???
+              </p>
+            </li>
+          </ul>
+        </p>
 
 
-      <subsection xml:id="subsec-instructor">
-        <title>Instructor</title>
-       <p>My name is Chris Hallstrom and I'll be your instructor for this class.  My pronouns are he/his.
-       <dl>
-        <li><title>Email:</title><p><url href="mailto:hallstro@up.edu">hallstro@up.edu</url></p></li>
-          <li><title>Office:</title><p>Buckley Center 270</p></li>
-          <li><title>Phone:</title><p>(503) 943-7165</p></li>
-       </dl>
-      </p>
-      </subsection>
 
 
       <subsection xml:id="subsec-support">
@@ -70,66 +81,15 @@
           </dl>
         </p>
 
-        
-          
-            <li> <title>Drop-In Student Hours</title> 
-              <p>I have set aside the following specific times during the week that I am available for drop-in help. You do not need to let me know you're coming -- just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.
-              </p>
-              
-              <p>
-                <dl>
-                  <li> <title>tba</title>
-                    <p>
-                      tba
-                    </p>
-                  </li>
-                  <li> <title>tba</title>
-                    <p>
-                      tba
-                    </p>
-                  </li>
-                </dl>
-              </p>
-            </li>
-            
-            <li><title>Sign-Up Hours</title> 
-              <p>I recognize that your schedule might not allow you to stop by during the posted drop-in hours.  Or you simply might find it more convenient to meet with me at a different time.  If you go to my Calendly scheduler <url href="https://calendly.com/hallstro">calendly.com/hallstro</url>, you can sign-up for a time slot to meet, either in person or via zoom.  If there is a specific time that works for you and you don't see it available on the Calendly scheduler, please reach out to me via email and we will find a time that works for your schedule.
-              </p>
-            </li>
-            
-            <li><title>Open Door</title> 
-              <p>I have the scheduled drop-in hours simply to give you some times when you know that I'll be available -- but you are <em>always</em> welcome to stop by my office <em>at any time</em>.  Unless I'm in class or in a meeting, I will generally be available to meet with you.
-              </p>
-            </li>
-            
-            <li><title>Math Resource Center</title>
-              <p>The MRC offers both drop-in tutoring as well as individualized help.  I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester).  You can also find information about the MRC (and other resources at the Learning Commons) at <url href="https://bit.ly/learning-up">https://bit.ly/learning-up</url>
-              </p>
-            </li>
-          </dl>
-        </p>
+     
+
+
+
       </subsection>
       
 
       
-      <subsection xml:id="subsec-meetings">
-        <title>Class Schedule</title>
-        <p>
-          MTH 201 Section C meets as follows:
-          <ul>
-            <li>
-              <p>
-                MWF 9:15-10:10 am, DB ???
-              </p>
-            </li>
-            <li>
-              <p>
-                Th 9:45-10:40 am, DB ???
-              </p>
-            </li>
-          </ul>
-        </p>
-      </subsection>
+
 
       <subsection xml:id="subsec-textbook">
         <title>Text and Technology</title>
